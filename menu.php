@@ -10,7 +10,7 @@
 </head>
 <br><br>
 <div class="col-md-6 offset-md-3 shadow p-3 mb-5 bg-white ">
-    <form class="bootstrap-iso" id="form" name="formulaire">
+    <form method="post" action="inscription.php" class="bootstrap-iso" id="form" name="formulaire">
         <div class="row">
             <div class="col-sm-6">
                 <h5>Nom :</h5>
